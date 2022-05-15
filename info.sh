@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 #
 # Informasi Hardware dan Sistem 
 # Mod By HEMAT STORE
